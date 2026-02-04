@@ -21,7 +21,7 @@
 * [黑色的花](xw/blackflower.md)
 * [諷時事句子二](xw/feng.md)
 * [短篇](xw/short.md)
-* [x+y>=2√(xy)](xy.md)
+* [x+y>=2√(xy)](xw/xy.md)
 
 ***
 
