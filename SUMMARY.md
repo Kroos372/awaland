@@ -17,6 +17,11 @@
 * [阿瓦诗](xw/a-wa-shi.md)
 * [阿瓦科仪](xw/a-wa-ke-yi.md)
 * [杂诗](xw/za-shi.md)
+* [三價鐵的自白](xw/Fe.md)
+* [黑色的花](xw/blackflower.md)
+* [諷時事句子二](xw/feng.md)
+* [短篇](xw/short.md)
+* [x+y>=2√(xy)](xy.md)
 
 ***
 
