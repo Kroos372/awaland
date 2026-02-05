@@ -12,6 +12,10 @@
 * [阿瓦兰](dt/a-wa-lan.md)
 * [地球上最后一只DODO鸟](dt/dodo.md)
 
+## HUGH
+
+* [Hugh](hugh/hugh.md)
+
 ## xuan2wei1 <a href="#xw" id="xw"></a>
 
 * [阿瓦诗](xw/a-wa-shi.md)
